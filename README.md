@@ -4,7 +4,7 @@ invert colors
 ## Install
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/u1ui/invert.class@1.0.0/invert.min.css" rel=stylesheet>
+<link href="https://cdn.jsdelivr.net/gh/u1ui/invert.class@x.x.x/invert.min.css" rel=stylesheet>
 ```
 
 ## About

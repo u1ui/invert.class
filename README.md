@@ -31,6 +31,17 @@ invert colors
 [minimal.html](http://gcdn.li/u1ui/invert.class@main/tests/minimal.html)  
 [test.html](http://gcdn.li/u1ui/invert.class@main/tests/test.html)  
 
+## Note
+
+I am thinking of using an attribute for changing the theme.
+So that not only can be inverted but also other theme-possible can be made.
+`[u1-skin=invert], [u1-skin=theme], [u1-skin=dark], [u1-skin=light]`
+I am still looking for a suitable name for this purpose:
+
+```css
+[u1-skin], [u1-theme], [u1-color], [u1-bg], [u1-palette], [u1-color-scheme], [u1-root]
+```
+
 ## About
 
 - MIT License, Copyright (c) 2022 <u1> (like all repositories in this organization) <br>

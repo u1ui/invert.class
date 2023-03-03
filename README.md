@@ -34,8 +34,8 @@ invert colors
 ## Note
 
 I am thinking of using an attribute for changing the theme.
-So that not only can be inverted but also other theme-possible can be made.
-`[u1-skin=invert], [u1-skin=theme], [u1-skin=dark], [u1-skin=light]`
+So that not only it can be inverted but also other theme-variants can be made.
+eg. `[u1-skin=invert], [u1-skin=theme], [u1-skin=dark], [u1-skin=light]`
 I am still looking for a suitable name for this purpose:
 
 ```css
